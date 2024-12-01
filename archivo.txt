@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Cambio de Elias
+=======
+estoy haciendo cambios en el archivo y no voy a hacer commit (desarrollador A)
+>>>>>>> Stashed changes
